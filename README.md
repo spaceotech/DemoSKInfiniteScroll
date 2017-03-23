@@ -9,8 +9,6 @@ We’ve a solution for you. We’ve programmed infinite scroll in one of our liv
 And if you’ve any questions regarding it, ask it in the comment section of the blog. We’ll get back to you as soon as possible. Enjoy! 
 
 
-![Demo Gif](https://dl.dropboxusercontent.com/u/92255522/Xtra/Infinite%20scroll/mov.gif)
-
 - Support all the four direction
 - You can manage speed 
 - Infinite scroll without jurk
