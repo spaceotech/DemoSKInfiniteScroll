@@ -4,9 +4,9 @@ Do you know how to create an [infinite scroll while developing your iOS applicat
 
 No? Don’t worry then. 
 
-I’ve a solution for you. I’ve programmed infinite scroll in one of our live projects at Space-O Technologies, trusted [iPhone App Development company](http://www.spaceotechnologies.com/iphone-app-development/) in India. I thought, it might be helpful to you as well, so I’ve uploaded the whole source code here. Feel free to download it. 
+We’ve a solution for you. We’ve programmed infinite scroll in one of our live projects at Space-O Technologies, trusted [iPhone App Development company](http://www.spaceotechnologies.com/iphone-app-development/) in India. We thought, it might be helpful to you as well, so I’ve uploaded the whole source code here. Feel free to download it. 
 
-And if you’ve any questions regarding it, ask it in the comment section of the blog. I’ll get back to you as soon as possible. Enjoy! 
+And if you’ve any questions regarding it, ask it in the comment section of the blog. We’ll get back to you as soon as possible. Enjoy! 
 
 
 ![Demo Gif](https://dl.dropboxusercontent.com/u/92255522/Xtra/Infinite%20scroll/mov.gif)
